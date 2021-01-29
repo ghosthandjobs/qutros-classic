@@ -1,0 +1,16 @@
+{
+"companyName": "Betamaximus-128",
+"productName": "Qutros",
+"productVersion": "1.0",
+"dataUrl": "webgl 1D.data.unityweb",
+"wasmCodeUrl": "webgl 1D.wasm.code.unityweb",
+"wasmFrameworkUrl": "webgl 1D.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.10f1"
+}
